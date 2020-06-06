@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" >
+  <img src="Data Science.png" >
 </p>
 
 # Jeferson Komati
