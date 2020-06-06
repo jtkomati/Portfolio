@@ -1,8 +1,3 @@
-
-
-Veja os projetos:
-[![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/jeferson-k-b447428) [![]
-
 <p align="center">
   <img src="banner.png" >
 </p>
