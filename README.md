@@ -18,6 +18,9 @@ My credentials include a MBA in IFRS from FIPEFACI, MBA from FGV and BS in Accou
 
 ## Projetos:
 
+* [Analisando dados do Airbnb da Cidade de Nova Iorque]
+(https://github.com/jtkomati/Portfolio/blob/master/AirBNB_New_York.ipynb)
+
 * [Analisando a violência no Rio de Janeiro](https://github.com/jtkomati/Portfolio/blob/master/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)
 
 
