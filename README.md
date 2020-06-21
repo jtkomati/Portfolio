@@ -22,5 +22,8 @@ My credentials include a MBA in IFRS from FIPEFACI, MBA from FGV and BS in Accou
 
 * [Analisando a violência no Rio de Janeiro](https://github.com/jtkomati/Portfolio/blob/master/Analisando_a_Viol%C3%AAncia_no_Rio_de_Janeiro.ipynb)
 
+* [Panorama do COVID-19 no Brasil e no mundo]
+https://github.com/jtkomati/Portfolio/blob/master/Panorama_do_COVID_19_no_Brasil.ipynb
+
 
 ---
