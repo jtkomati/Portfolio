@@ -24,5 +24,7 @@ My credentials include a MBA in IFRS from FIPEFACI, MBA from FGV and BS in Accou
 
 * [Panorama do COVID-19 no Brasil e no mundo](https://github.com/jtkomati/Portfolio/blob/master/Panorama_do_COVID_19_no_Brasil.ipynb)
 
+* [Detecção de Fraude em Cartões de Crédito](https://github.com/jtkomati/Portfolio/blob/master/Detecção_de_Fraude_em_Cartões_de_Crédito.ipynb)
+
 
 ---
