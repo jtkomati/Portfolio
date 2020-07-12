@@ -26,5 +26,7 @@ My credentials include a MBA in IFRS from FIPEFACI, MBA from FGV and BS in Accou
 
 * [Detecção de Fraude em Cartões de Crédito](https://github.com/jtkomati/Portfolio/blob/master/Detecção_de_Fraude_em_Cartões_de_Crédito.ipynb)
 
+* [Churn Prediction para uma empresa de Telecomunicações](https://github.com/jtkomati/Portfolio/blob/master/Churn_Prediction_para_uma_empresa_de_Telecomunicações.ipynb)
+
 * [Avaliação de Risco de Crédito](https://github.com/jtkomati/Portfolio/blob/master/Avaliação_de_Risco_de_Crédito.ipynb)
 ---
