@@ -32,5 +32,3 @@ My credentials include a MBA in IFRS from FIPEFACI, MBA from FGV and BS in Accou
 
 * [Deploy de API para cálculo de Preço de Imóveis em São Paulo](https://github.com/jtkomati/Portfolio/blob/master/Preço_de_Imóveis_em_São_Paulo.ipynb)
 ---
-
-Deploy_para_Machine_Learning.ipynb
